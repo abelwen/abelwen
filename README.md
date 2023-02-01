@@ -1,5 +1,5 @@
 - 👋 Hi, I am Abelwe Ndiki
-- 👀 I’m currently a 3rd year Computer Science student at the University of Witwatersrand
+- 👀 I am a  Computer Science and Computational and Applied Mathematics graduate from the University of Witwatersrand
 - 🌱 I’m currently focused on working on independent projects and building my skills..
 
 <!---
